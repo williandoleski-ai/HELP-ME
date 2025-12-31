@@ -1,0 +1,9 @@
+{
+  "name": "Help-Me: Service Marketplace",
+  "description": "Seu super app para economizar tempo em filas e garantir o melhor cuidado para seu pet.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
